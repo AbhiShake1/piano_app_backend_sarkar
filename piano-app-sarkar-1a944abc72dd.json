@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "piano-app-sarkar",
+  "private_key_id": "1a944abc72dd37ab0e28231e0fa76bafce0d8404",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCoRPaIVlRWZymP\nyetMsoLEuRkr9GI8le2sT7UARZp2Vr1w73EWRfyNLiRaP1Upb7mrcDl4pqpGV5rh\nO51kWuvyU9nAYI21AwTQOoTPukbKFKiapXYV8dlcE4wiEpEavJolqjpzpIbAAS9+\nSTp8hzsNkTTjX3KTjmd8FGR1OwxNNzMVmUZRGmeOLr5XJTSHjFNJL5z6iHzBYCrl\nc3Spsg4LVhNiV+HLxWWcA5HGEfQbGNyUm+5D0BljgyalMMehajGenM/g3oHs21Jn\n6m+XTKN2aRzPNaEC20rXhwD3qwSliMGvvuXNpyM/UPvcj2V6aiUzj0dbe8KmRaHZ\n1M3dlNAPAgMBAAECggEAMeYlf5+uKeM0yX2U5+0l50WGp+i0Owgw74DBiZ+aYw5s\n5jEzRWoirxEoWZTfYcbOdf71JAi0hOCUvscJcQmfX4CrGafoTe3jvwYjfWBdfq6q\noxV/E5nhHbN0QmRkIFwekB3PcJyxEv4nAdmgXO5TPj45w1V6KjS4Dm0Tr0n/52OE\ncu8hSq8u7SnfE5u+7nGHGotbC40C9L9kbLoTmiojMVwxyHyECuzW6bXMuQIt7iwr\nmCCMAKVAGnSROsiWSlA84VTVjHRClNuzeQCcSBIArNV3/KJbmwfx9HOyEjv+cN9y\n9vGE0K3v1Jo0Ss5T/LMyBmuT10uE3sd/+q3Li8DJNQKBgQDX40hMLOHnjbwwMGb6\ngMuL0KhjP7/xuT32qlFodAKPcQq6sAwmkWbUM/HaLGiRwmZCuqHjW7WPVKzAjCtF\nyTeI2g+L+k60AOyPXWfsY/EbHmnrOILBhxrtKUQEkyWvnbbqRyufjGjOV6zjyttG\nP0mV9R9fxSE9WUhT+6LIkaA1IwKBgQDHiLTwm2l15obZ0hzHKqzDVW5GlKDtRmvq\nL+PqXdNORDUOii6Iw98gbP4u7peilXlZmVMRIMtoupxP/V/84GQKS7LGfr7efAJb\nrkTE/PA7sFYEBGhTsTYOLgNALdP0yaxrr4QHzujtjaPHfj42JpG1O1ILu/TJpg6E\nZJjNZ8V2JQKBgHvLLI3hvrhUofDQEHzcldtajvQ6fgpSOqHTEFNhEobGP2zFvnHv\nNpPAJZMBnATZAGKLOoFw+S9zUowm1Dl0JJAo2nld0vuM/BlJamo29O6kBgCHqxLm\nMh6EZyhoaFfHjDfTD8Sxcve/drg4fnxNlhiTMqZsF59iLwNZbAKu3rsZAoGAKCGB\nqsbHHjRgONz+drxJhPvgswdfmnlIaRB6uX9naV1kgmkeVNl4PfBN6yiHjOadQn0I\n7O/4mTa3C4t9S8HhvQRej3eccejlHIVfRXNN6eNcWXB9fx+sLIvqkXTmJVyOdhYV\n6vAdfvG21/+3CXMWaSnmJYAHCquATfZhmSZe25UCgYEArnaDk8t4ZPrlFkCzOCEB\nANpTpxZvTGlcTCka2ZBlCZt+xB2Lid9zZDuNM43e+1N8BCZDpZ6Nvhz8Uc3e/VVr\nJNmE1H4X91pzeVf6VpeH5b02lJh0BBmsBz0LdtE4vMuvCmG1zDsfAUe/p8VK15oK\nKvKL9ZypSVeJPNkUPlTgFog=\n-----END PRIVATE KEY-----\n",
+  "client_email": "piano-sarkar@piano-app-sarkar.iam.gserviceaccount.com",
+  "client_id": "111623023904881056435",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/piano-sarkar%40piano-app-sarkar.iam.gserviceaccount.com"
+}
